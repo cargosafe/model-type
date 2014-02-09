@@ -1,0 +1,10 @@
+{
+  "name": "model-type",
+  "repository": "git://github.com/cargosafe/model-type",
+  "description": "Retrieve name/type of model",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT",
+  "main": "index.js"
+}
